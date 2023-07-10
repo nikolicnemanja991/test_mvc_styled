@@ -7,6 +7,10 @@
 
     $page_name = basename(__FILE__, '.php');
 
+    if (!$controller->isLogged()) {
+        header('Location: login.php');        
+    }
+
 ?>
 
 
