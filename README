@@ -1,0 +1,17 @@
+List of users:
+Username:   Password:   Role:
+admin       admin       admin
+moderator   moderator   moderator
+user        user        user
+Nemanja     123         user
+Dragan      123         user
+Djordje     123         user
+Boskic      123         user
+
+Tasks:
+1. List of users with theirs username and password is shown above. User can login from login.php page.
+2. Admin page is realized in admin.php where all users are listed and can be added/updated/deleted.
+3. Products page is implemented in products.php where products can be added/updated/deleted.
+4. User can add products to cart at shopping.php page.
+5. Admin and Moderator activities are listed on logs.php page.
+6. Order statistics is shown on orders.php.
