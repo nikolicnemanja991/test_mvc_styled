@@ -15,3 +15,6 @@ Tasks:
 4. User can add products to cart at shopping.php page.
 5. Admin and Moderator activities are listed on logs.php page.
 6. Order statistics is shown on orders.php.
+
+Note:
+Index page is empty, please go to navigation manu to see other pages.

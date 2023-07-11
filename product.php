@@ -41,7 +41,7 @@
                 <input type="text" name="type" class="form-control" id="productTypeInput1" value='<?= $product['type'] ?>'>
             </div>
             <div class="mb-3">
-                <label for="productPriceInput1" class="form-label">Product Name:</label>
+                <label for="productPriceInput1" class="form-label">Product Price:</label>
                 <input type="text" name="price" class="form-control" id="productPriceInput1" value='<?= $product['price'] ?>'>
             </div>
             <input type="hidden" name="id" value='<?= $product['id'] ?>'>
